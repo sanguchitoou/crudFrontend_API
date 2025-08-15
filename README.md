@@ -76,10 +76,9 @@ En Spring Boot, expón CORS en tu configuración (por controlador o globalmente)
 
 ---
 
-## 📜 Licencia
-Este proyecto base puede usarse libremente para fines educativos y demostrativos.
+## 📜 Este proyecto base puede usarse libremente para fines educativos y demostrativos.
 
 ---
 
-## ✍️ Autor
+## ✍️ Ricardo De Paz
 Proyecto base de frontend para CRUD que consume **API en Spring Boot**, preparado para ejecutarse con **XAMPP (Apache)** y **listo para agregar JavaScript**.
